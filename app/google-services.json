@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409276412138",
+    "project_id": "byteridgetask"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409276412138:android:0ccffc91978487d7",
+        "android_client_info": {
+          "package_name": "com.example.bhagavan.byteridgetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409276412138-1qjei755kvv275v1q1439littstqrt0d.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "409276412138-93i5uqluj1uteiohm996b1kck927un77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhagavan.byteridgetask",
+            "certificate_hash": "d2282c692e552ddeeefc218db85d3c59a87b175a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeuAfLK7dG4AJYvGDoRvgle3mh_7Jix5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
